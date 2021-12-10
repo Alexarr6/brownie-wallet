@@ -1,0 +1,3 @@
+dotenv: .env #le indicamos que extraiga las variables ambiente del archivo .env
+wallets:
+  from_key: ${PRIVATE_KEY}
